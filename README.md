@@ -16,4 +16,4 @@ This code is adapted from COMS3930 WebSerial Lab 1, which used serial pin values
 
 This can currently only be implemented with a wired connection to a device with speakers!
 
-Read more about the piece here: 
+Read more about the piece here: https://sites.google.com/view/trinitysuma/portfolio/creative-embedded-systems#h.yis0njmb5446
